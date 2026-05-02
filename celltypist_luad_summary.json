@@ -1,0 +1,211 @@
+{
+  "dataset": "LUAD",
+  "model": "Immune_All_Low.pkl",
+  "n_clusters": 20,
+  "n_cells": 9708,
+  "n_correct": 19,
+  "macro_acc": 95.0,
+  "weighted_acc": 99.8,
+  "per_cluster": [
+    {
+      "cluster": 0,
+      "n_cells": 1988,
+      "author_label": "T lymphocytes",
+      "author_std": "T lymphocytes",
+      "celltypist_raw": "Tem/Effector helper T cells",
+      "celltypist_std": "T lymphocytes",
+      "celltypist_correct": true,
+      "celltypist_conf": 1.0
+    },
+    {
+      "cluster": 1,
+      "n_cells": 1067,
+      "author_label": "T lymphocytes",
+      "author_std": "T lymphocytes",
+      "celltypist_raw": "Tem/Trm cytotoxic T cells",
+      "celltypist_std": "T lymphocytes",
+      "celltypist_correct": true,
+      "celltypist_conf": 1.0
+    },
+    {
+      "cluster": 2,
+      "n_cells": 1055,
+      "author_label": "Myeloid cells",
+      "author_std": "Myeloid cells",
+      "celltypist_raw": "Macrophages",
+      "celltypist_std": "Myeloid cells",
+      "celltypist_correct": true,
+      "celltypist_conf": 1.0
+    },
+    {
+      "cluster": 3,
+      "n_cells": 794,
+      "author_label": "B lymphocytes",
+      "author_std": "B lymphocytes",
+      "celltypist_raw": "Memory B cells",
+      "celltypist_std": "B lymphocytes",
+      "celltypist_correct": true,
+      "celltypist_conf": 1.0
+    },
+    {
+      "cluster": 4,
+      "n_cells": 514,
+      "author_label": "T lymphocytes",
+      "author_std": "T lymphocytes",
+      "celltypist_raw": "Regulatory T cells",
+      "celltypist_std": "T lymphocytes",
+      "celltypist_correct": true,
+      "celltypist_conf": 1.0
+    },
+    {
+      "cluster": 5,
+      "n_cells": 507,
+      "author_label": "T lymphocytes",
+      "author_std": "T lymphocytes",
+      "celltypist_raw": "CD16+ NK cells",
+      "celltypist_std": "T lymphocytes",
+      "celltypist_correct": true,
+      "celltypist_conf": 1.0
+    },
+    {
+      "cluster": 6,
+      "n_cells": 481,
+      "author_label": "Epithelial cells",
+      "author_std": "Epithelial cells",
+      "celltypist_raw": "Epithelial cells",
+      "celltypist_std": "Epithelial cells",
+      "celltypist_correct": true,
+      "celltypist_conf": 1.0
+    },
+    {
+      "cluster": 7,
+      "n_cells": 449,
+      "author_label": "Epithelial cells",
+      "author_std": "Epithelial cells",
+      "celltypist_raw": "Epithelial cells",
+      "celltypist_std": "Epithelial cells",
+      "celltypist_correct": true,
+      "celltypist_conf": 1.0
+    },
+    {
+      "cluster": 8,
+      "n_cells": 390,
+      "author_label": "MAST cells",
+      "author_std": "Mast cells",
+      "celltypist_raw": "Mast cells",
+      "celltypist_std": "Mast cells",
+      "celltypist_correct": true,
+      "celltypist_conf": 1.0
+    },
+    {
+      "cluster": 9,
+      "n_cells": 360,
+      "author_label": "Myeloid cells",
+      "author_std": "Myeloid cells",
+      "celltypist_raw": "Alveolar macrophages",
+      "celltypist_std": "Myeloid cells",
+      "celltypist_correct": true,
+      "celltypist_conf": 1.0
+    },
+    {
+      "cluster": 10,
+      "n_cells": 360,
+      "author_label": "Myeloid cells",
+      "author_std": "Myeloid cells",
+      "celltypist_raw": "DC",
+      "celltypist_std": "Myeloid cells",
+      "celltypist_correct": true,
+      "celltypist_conf": 1.0
+    },
+    {
+      "cluster": 11,
+      "n_cells": 353,
+      "author_label": "Fibroblasts",
+      "author_std": "Fibroblasts",
+      "celltypist_raw": "Fibroblasts",
+      "celltypist_std": "Fibroblasts",
+      "celltypist_correct": true,
+      "celltypist_conf": 1.0
+    },
+    {
+      "cluster": 12,
+      "n_cells": 346,
+      "author_label": "B lymphocytes",
+      "author_std": "B lymphocytes",
+      "celltypist_raw": "Plasma cells",
+      "celltypist_std": "B lymphocytes",
+      "celltypist_correct": true,
+      "celltypist_conf": 1.0
+    },
+    {
+      "cluster": 13,
+      "n_cells": 262,
+      "author_label": "Epithelial cells",
+      "author_std": "Epithelial cells",
+      "celltypist_raw": "Epithelial cells",
+      "celltypist_std": "Epithelial cells",
+      "celltypist_correct": true,
+      "celltypist_conf": 1.0
+    },
+    {
+      "cluster": 14,
+      "n_cells": 202,
+      "author_label": "T lymphocytes",
+      "author_std": "T lymphocytes",
+      "celltypist_raw": "Tem/Effector helper T cells",
+      "celltypist_std": "T lymphocytes",
+      "celltypist_correct": true,
+      "celltypist_conf": 1.0
+    },
+    {
+      "cluster": 15,
+      "n_cells": 184,
+      "author_label": "Epithelial cells",
+      "author_std": "Epithelial cells",
+      "celltypist_raw": "Epithelial cells",
+      "celltypist_std": "Epithelial cells",
+      "celltypist_correct": true,
+      "celltypist_conf": 1.0
+    },
+    {
+      "cluster": 16,
+      "n_cells": 176,
+      "author_label": "Myeloid cells",
+      "author_std": "Myeloid cells",
+      "celltypist_raw": "Macrophages",
+      "celltypist_std": "Myeloid cells",
+      "celltypist_correct": true,
+      "celltypist_conf": 1.0
+    },
+    {
+      "cluster": 17,
+      "n_cells": 131,
+      "author_label": "Endothelial cells",
+      "author_std": "Endothelial cells",
+      "celltypist_raw": "Endothelial cells",
+      "celltypist_std": "Endothelial cells",
+      "celltypist_correct": true,
+      "celltypist_conf": 1.0
+    },
+    {
+      "cluster": 18,
+      "n_cells": 69,
+      "author_label": "T lymphocytes",
+      "author_std": "T lymphocytes",
+      "celltypist_raw": "Regulatory T cells",
+      "celltypist_std": "T lymphocytes",
+      "celltypist_correct": true,
+      "celltypist_conf": 1.0
+    },
+    {
+      "cluster": 19,
+      "n_cells": 20,
+      "author_label": "Epithelial cells",
+      "author_std": "Epithelial cells",
+      "celltypist_raw": "Alveolar macrophages",
+      "celltypist_std": "Myeloid cells",
+      "celltypist_correct": false,
+      "celltypist_conf": 1.0
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "description": "CellTypist accuracy on LUAD and HCC. Computed by run_celltypist_comparison.py. Feeds into draw_fig_accuracy_comparison.py and Table 2.",
+  "luad": {
+    "weighted_acc": 99.8,
+    "macro_acc": 95.0,
+    "n_correct": 19,
+    "n_clusters": 20,
+    "n_cells": 9708
+  },
+  "hcc": {
+    "weighted_acc": 32.5,
+    "macro_acc": 32.0,
+    "n_correct": 8,
+    "n_clusters": 25,
+    "n_cells": 8868
+  }
+}

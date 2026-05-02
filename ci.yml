@@ -1,0 +1,44 @@
+name: GRACE CI
+
+on:
+  push:
+    branches: [main, develop]
+  pull_request:
+    branches: [main]
+
+jobs:
+  lint-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install flake8 pytest
+          pip install -r requirements.txt
+
+      - name: Lint with flake8
+        run: |
+          flake8 grace/ evaluation/ preprocessing/ figures/ \
+            --max-line-length=100 \
+            --extend-ignore=E203,W503 \
+            --count --statistics
+
+      - name: Run unit tests
+        run: |
+          pytest tests/ -v --tb=short
+        env:
+          AZURE_OPENAI_ENDPOINT: ${{ secrets.AZURE_OPENAI_ENDPOINT }}
+          AZURE_OPENAI_KEY: ${{ secrets.AZURE_OPENAI_KEY }}
+          AZURE_OPENAI_DEPLOYMENT: gpt-5.4
+          AZURE_OPENAI_API_VERSION: 2025-04-01-preview
+
+      - name: Verify cached results
+        run: |
+          python docs/verify_results.py || true

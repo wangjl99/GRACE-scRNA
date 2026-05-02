@@ -1,0 +1,21 @@
+cluster,n_cells,author_label,author_std,celltypist_raw,celltypist_std,celltypist_correct,celltypist_conf
+0,1988,T lymphocytes,T lymphocytes,Tem/Effector helper T cells,T lymphocytes,True,1.0
+1,1067,T lymphocytes,T lymphocytes,Tem/Trm cytotoxic T cells,T lymphocytes,True,1.0
+2,1055,Myeloid cells,Myeloid cells,Macrophages,Myeloid cells,True,1.0
+3,794,B lymphocytes,B lymphocytes,Memory B cells,B lymphocytes,True,1.0
+4,514,T lymphocytes,T lymphocytes,Regulatory T cells,T lymphocytes,True,1.0
+5,507,T lymphocytes,T lymphocytes,CD16+ NK cells,T lymphocytes,True,1.0
+6,481,Epithelial cells,Epithelial cells,Epithelial cells,Epithelial cells,True,1.0
+7,449,Epithelial cells,Epithelial cells,Epithelial cells,Epithelial cells,True,1.0
+8,390,MAST cells,Mast cells,Mast cells,Mast cells,True,1.0
+9,360,Myeloid cells,Myeloid cells,Alveolar macrophages,Myeloid cells,True,1.0
+10,360,Myeloid cells,Myeloid cells,DC,Myeloid cells,True,1.0
+11,353,Fibroblasts,Fibroblasts,Fibroblasts,Fibroblasts,True,1.0
+12,346,B lymphocytes,B lymphocytes,Plasma cells,B lymphocytes,True,1.0
+13,262,Epithelial cells,Epithelial cells,Epithelial cells,Epithelial cells,True,1.0
+14,202,T lymphocytes,T lymphocytes,Tem/Effector helper T cells,T lymphocytes,True,1.0
+15,184,Epithelial cells,Epithelial cells,Epithelial cells,Epithelial cells,True,1.0
+16,176,Myeloid cells,Myeloid cells,Macrophages,Myeloid cells,True,1.0
+17,131,Endothelial cells,Endothelial cells,Endothelial cells,Endothelial cells,True,1.0
+18,69,T lymphocytes,T lymphocytes,Regulatory T cells,T lymphocytes,True,1.0
+19,20,Epithelial cells,Epithelial cells,Alveolar macrophages,Myeloid cells,False,1.0

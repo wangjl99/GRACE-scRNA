@@ -1,0 +1,44 @@
+{
+  "accuracy": {
+    "grace_luad_w": 100.0,
+    "grace_luad_m": 100.0,
+    "grace_hcc_w": 93.3,
+    "grace_hcc_m": 92.0,
+    "ct_luad_w": 99.8,
+    "ct_luad_m": 95.0,
+    "ct_hcc_w": 32.5,
+    "ct_hcc_m": 32.0,
+    "sr_luad_w": 91.1,
+    "sr_luad_m": 90.0,
+    "sr_hcc_w": 80.4,
+    "sr_hcc_m": 68.0,
+    "gpt_luad_w": 85.7,
+    "gpt_luad_m": 80.0,
+    "gpt_hcc_w": 43.9,
+    "gpt_hcc_m": 40.0
+  },
+  "uncertainty": {
+    "luad_mean": 2.5,
+    "hcc_mean": 4.48
+  },
+  "confidence": {
+    "luad_mean": 0.547,
+    "luad_above": 16,
+    "hcc_mean": 0.425,
+    "hcc_above": 9
+  },
+  "calibration": {
+    "luad_go_recall": 0.062,
+    "luad_go_f1": 0.007,
+    "hcc_go_f1": -0.002
+  },
+  "go_metrics": {
+    "luad_grace_f1": 0.623,
+    "hcc_grace_f1": 0.368,
+    "hcc_gpt_f1": 0.187
+  },
+  "datasets": {
+    "luad_cells": 9708,
+    "hcc_cells": 8868
+  }
+}

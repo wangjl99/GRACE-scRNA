@@ -1,0 +1,51 @@
+# GRACE .gitignore
+
+# Credentials
+.env
+*.key
+
+# Data files (too large for git — use GEO directly)
+data/*.gz
+data/*.txt
+data/*.h5ad
+results/*.h5ad
+results/hcc/*.h5ad
+
+# Large results (pre-computed versions kept in results/)
+# results/versionB_results.json   ← KEPT (paper results)
+# results/baseline_results.json   ← KEPT
+
+# Cache (optional: include for full reproducibility without API)
+# cache/  ← uncomment to exclude cache from git
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Temporary
+tmp/
+temp/
+scratch/

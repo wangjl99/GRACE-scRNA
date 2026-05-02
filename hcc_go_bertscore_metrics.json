@@ -1,0 +1,30 @@
+{
+  "source": "Real: Lu et al. 2022 Nat Commun + actual DEG files",
+  "reference_file": "hcc_cluster_refs_real.json",
+  "go_gpt": {
+    "precision": 0.116,
+    "recall": 0.52,
+    "f1": 0.187
+  },
+  "go_grace": {
+    "precision": 0.266,
+    "recall": 0.673,
+    "f1": 0.368
+  },
+  "bert_gpt": 0.259,
+  "bert_grace": 0.264,
+  "bert_method": "Semantic similarity (all-MiniLM-L6-v2)",
+  "calib_gap": -0.002,
+  "n_uncertain": 16,
+  "n_confident": 9,
+  "annotation_notes": {
+    "C24": "TPSB2/TPSAB1 = mast cell markers; labeled Myeloid in Lu 2022 \u2014 known annotation issue",
+    "C6": "HLA-DQA2/C1QB = macrophage markers; labeled Hepatocyte in Lu 2022",
+    "C23": "IGHG3/IGKC = B cell markers; labeled Myeloid in Lu 2022"
+  },
+  "go_gsea": {
+    "precision": 0.36,
+    "recall": 0.353,
+    "f1": 0.347
+  }
+}

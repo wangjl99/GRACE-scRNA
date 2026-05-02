@@ -1,0 +1,321 @@
+{
+  "luad": [
+    {
+      "cluster": 0,
+      "author_label": "T lymphocytes",
+      "n_cells": 1988,
+      "purity_pct": 99.4,
+      "lineage": "T lymphocyte"
+    },
+    {
+      "cluster": 1,
+      "author_label": "T lymphocytes",
+      "n_cells": 1067,
+      "purity_pct": 99.9,
+      "lineage": "T lymphocyte"
+    },
+    {
+      "cluster": 2,
+      "author_label": "Myeloid cells",
+      "n_cells": 1055,
+      "purity_pct": 100.0,
+      "lineage": "Myeloid"
+    },
+    {
+      "cluster": 3,
+      "author_label": "B lymphocytes",
+      "n_cells": 794,
+      "purity_pct": 99.7,
+      "lineage": "B lymphocyte"
+    },
+    {
+      "cluster": 4,
+      "author_label": "T lymphocytes",
+      "n_cells": 514,
+      "purity_pct": 99.8,
+      "lineage": "T lymphocyte"
+    },
+    {
+      "cluster": 5,
+      "author_label": "T lymphocytes",
+      "n_cells": 507,
+      "purity_pct": 54.0,
+      "lineage": "T lymphocyte"
+    },
+    {
+      "cluster": 6,
+      "author_label": "Epithelial cells",
+      "n_cells": 481,
+      "purity_pct": 99.8,
+      "lineage": "Malignant epithelial"
+    },
+    {
+      "cluster": 7,
+      "author_label": "Epithelial cells",
+      "n_cells": 449,
+      "purity_pct": 99.6,
+      "lineage": "Malignant epithelial"
+    },
+    {
+      "cluster": 8,
+      "author_label": "MAST cells",
+      "n_cells": 390,
+      "purity_pct": 98.7,
+      "lineage": "Mast"
+    },
+    {
+      "cluster": 9,
+      "author_label": "Myeloid cells",
+      "n_cells": 360,
+      "purity_pct": 99.7,
+      "lineage": "Myeloid"
+    },
+    {
+      "cluster": 10,
+      "author_label": "Myeloid cells",
+      "n_cells": 360,
+      "purity_pct": 99.2,
+      "lineage": "Myeloid"
+    },
+    {
+      "cluster": 11,
+      "author_label": "Fibroblasts",
+      "n_cells": 353,
+      "purity_pct": 99.7,
+      "lineage": "Fibroblast"
+    },
+    {
+      "cluster": 12,
+      "author_label": "B lymphocytes",
+      "n_cells": 346,
+      "purity_pct": 93.4,
+      "lineage": "B lymphocyte"
+    },
+    {
+      "cluster": 13,
+      "author_label": "Epithelial cells",
+      "n_cells": 262,
+      "purity_pct": 100.0,
+      "lineage": "Malignant epithelial"
+    },
+    {
+      "cluster": 14,
+      "author_label": "T lymphocytes",
+      "n_cells": 202,
+      "purity_pct": 99.5,
+      "lineage": "T lymphocyte"
+    },
+    {
+      "cluster": 15,
+      "author_label": "Epithelial cells",
+      "n_cells": 184,
+      "purity_pct": 100.0,
+      "lineage": "Malignant epithelial"
+    },
+    {
+      "cluster": 16,
+      "author_label": "Myeloid cells",
+      "n_cells": 176,
+      "purity_pct": 100.0,
+      "lineage": "Myeloid"
+    },
+    {
+      "cluster": 17,
+      "author_label": "Endothelial cells",
+      "n_cells": 131,
+      "purity_pct": 99.2,
+      "lineage": "Endothelial"
+    },
+    {
+      "cluster": 18,
+      "author_label": "T lymphocytes",
+      "n_cells": 69,
+      "purity_pct": 76.8,
+      "lineage": "T lymphocyte"
+    },
+    {
+      "cluster": 19,
+      "author_label": "Epithelial cells",
+      "n_cells": 20,
+      "purity_pct": 100.0,
+      "lineage": "Malignant epithelial"
+    }
+  ],
+  "hcc": [
+    {
+      "cluster": 0,
+      "author_label": "Hepatocyte",
+      "n_cells": 828,
+      "purity_pct": 77.8,
+      "lineage": "Hepatocyte"
+    },
+    {
+      "cluster": 1,
+      "author_label": "Myeloid",
+      "n_cells": 707,
+      "purity_pct": 43.7,
+      "lineage": "Myeloid"
+    },
+    {
+      "cluster": 2,
+      "author_label": "T/NK",
+      "n_cells": 645,
+      "purity_pct": 54.7,
+      "lineage": "T/NK"
+    },
+    {
+      "cluster": 3,
+      "author_label": "Myeloid",
+      "n_cells": 594,
+      "purity_pct": 46.1,
+      "lineage": "Myeloid"
+    },
+    {
+      "cluster": 4,
+      "author_label": "T/NK",
+      "n_cells": 510,
+      "purity_pct": 45.1,
+      "lineage": "T/NK"
+    },
+    {
+      "cluster": 5,
+      "author_label": "Hepatocyte",
+      "n_cells": 476,
+      "purity_pct": 68.3,
+      "lineage": "Hepatocyte"
+    },
+    {
+      "cluster": 6,
+      "author_label": "Hepatocyte",
+      "n_cells": 441,
+      "purity_pct": 47.8,
+      "lineage": "Hepatocyte"
+    },
+    {
+      "cluster": 7,
+      "author_label": "Endothelial",
+      "n_cells": 439,
+      "purity_pct": 38.0,
+      "lineage": "Endothelial"
+    },
+    {
+      "cluster": 8,
+      "author_label": "B",
+      "n_cells": 426,
+      "purity_pct": 40.8,
+      "lineage": "B"
+    },
+    {
+      "cluster": 9,
+      "author_label": "Fibroblast",
+      "n_cells": 420,
+      "purity_pct": 32.6,
+      "lineage": "Fibroblast"
+    },
+    {
+      "cluster": 10,
+      "author_label": "Hepatocyte",
+      "n_cells": 419,
+      "purity_pct": 53.9,
+      "lineage": "Hepatocyte"
+    },
+    {
+      "cluster": 11,
+      "author_label": "Hepatocyte",
+      "n_cells": 390,
+      "purity_pct": 78.2,
+      "lineage": "Hepatocyte"
+    },
+    {
+      "cluster": 12,
+      "author_label": "Hepatocyte",
+      "n_cells": 376,
+      "purity_pct": 65.4,
+      "lineage": "Hepatocyte"
+    },
+    {
+      "cluster": 13,
+      "author_label": "Hepatocyte",
+      "n_cells": 357,
+      "purity_pct": 47.1,
+      "lineage": "Hepatocyte"
+    },
+    {
+      "cluster": 14,
+      "author_label": "Myeloid",
+      "n_cells": 304,
+      "purity_pct": 64.8,
+      "lineage": "Myeloid"
+    },
+    {
+      "cluster": 15,
+      "author_label": "Hepatocyte",
+      "n_cells": 258,
+      "purity_pct": 62.8,
+      "lineage": "Hepatocyte"
+    },
+    {
+      "cluster": 16,
+      "author_label": "T/NK",
+      "n_cells": 232,
+      "purity_pct": 44.8,
+      "lineage": "T/NK"
+    },
+    {
+      "cluster": 17,
+      "author_label": "B",
+      "n_cells": 198,
+      "purity_pct": 31.8,
+      "lineage": "B"
+    },
+    {
+      "cluster": 18,
+      "author_label": "T/NK",
+      "n_cells": 163,
+      "purity_pct": 47.9,
+      "lineage": "T/NK"
+    },
+    {
+      "cluster": 19,
+      "author_label": "Hepatocyte",
+      "n_cells": 154,
+      "purity_pct": 50.0,
+      "lineage": "Hepatocyte"
+    },
+    {
+      "cluster": 20,
+      "author_label": "Hepatocyte",
+      "n_cells": 152,
+      "purity_pct": 77.6,
+      "lineage": "Hepatocyte"
+    },
+    {
+      "cluster": 21,
+      "author_label": "T/NK",
+      "n_cells": 145,
+      "purity_pct": 49.7,
+      "lineage": "T/NK"
+    },
+    {
+      "cluster": 22,
+      "author_label": "Myeloid",
+      "n_cells": 131,
+      "purity_pct": 33.6,
+      "lineage": "Myeloid"
+    },
+    {
+      "cluster": 23,
+      "author_label": "Myeloid",
+      "n_cells": 81,
+      "purity_pct": 60.5,
+      "lineage": "Myeloid"
+    },
+    {
+      "cluster": 24,
+      "author_label": "Myeloid",
+      "n_cells": 22,
+      "purity_pct": 36.4,
+      "lineage": "Myeloid"
+    }
+  ]
+}
