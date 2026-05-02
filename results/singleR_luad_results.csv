@@ -1,0 +1,21 @@
+cluster,n_cells,singleR_raw,singleR_mapped,singleR_delta,singleR_confident,singleR_correct,author_label,author_vocab
+0,1988,T_cells,T/NK,0.0637,True,True,T lymphocytes,T/NK
+1,1067,NK_cell,T/NK,0.1558,True,True,T lymphocytes,T/NK
+2,1055,Macrophage,Myeloid,0.1236,True,True,Myeloid cells,Myeloid
+3,794,B_cell,B/Plasma,0.1946,True,True,B lymphocytes,B/Plasma
+4,514,Smooth_muscle_cells,Fibroblast,0.0196,False,False,T lymphocytes,T/NK
+5,507,NK_cell,T/NK,0.3413,True,True,T lymphocytes,T/NK
+6,481,Epithelial_cells,Epithelial,0.1909,True,True,Epithelial cells,Epithelial
+7,449,Epithelial_cells,Epithelial,0.1779,True,True,Epithelial cells,Epithelial
+8,390,Mast_cell,Mast,0.3041,True,True,MAST cells,Mast
+9,360,Macrophage,Myeloid,0.1105,True,True,Myeloid cells,Myeloid
+10,360,DC,Myeloid,0.0667,True,True,Myeloid cells,Myeloid
+11,353,Fibroblasts,Fibroblast,0.087,True,True,Fibroblasts,Fibroblast
+12,346,Plasma_cells,B/Plasma,0.0482,False,False,B lymphocytes,B/Plasma
+13,262,Epithelial_cells,Epithelial,0.1368,True,True,Epithelial cells,Epithelial
+14,202,T_cells,T/NK,0.1027,True,True,T lymphocytes,T/NK
+15,184,Epithelial_cells,Epithelial,0.1381,True,True,Epithelial cells,Epithelial
+16,176,Monocyte,Myeloid,0.1923,True,True,Myeloid cells,Myeloid
+17,131,Endothelial_cells,Endothelial,0.2243,True,True,Endothelial cells,Endothelial
+18,69,NK_cell,T/NK,0.1519,True,True,T lymphocytes,T/NK
+19,20,Epithelial_cells,Epithelial,0.2077,True,True,Epithelial cells,Epithelial

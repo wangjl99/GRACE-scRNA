@@ -1,0 +1,21 @@
+cluster,author_label,purity_pct,n_cells
+0,T lymphocytes,99.4,1988
+1,T lymphocytes,99.9,1067
+2,Myeloid cells,100.0,1055
+3,B lymphocytes,99.7,794
+4,T lymphocytes,99.8,514
+5,T lymphocytes,54.0,507
+6,Epithelial cells,99.8,481
+7,Epithelial cells,99.6,449
+8,MAST cells,98.7,390
+9,Myeloid cells,99.7,360
+10,Myeloid cells,99.2,360
+11,Fibroblasts,99.7,353
+12,B lymphocytes,93.4,346
+13,Epithelial cells,100.0,262
+14,T lymphocytes,99.5,202
+15,Epithelial cells,100.0,184
+16,Myeloid cells,100.0,176
+17,Endothelial cells,99.2,131
+18,T lymphocytes,76.8,69
+19,Epithelial cells,100.0,20

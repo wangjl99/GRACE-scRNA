@@ -1,0 +1,14 @@
+{
+  "luad": {
+    "weighted": 91.1,
+    "macro": 90.0,
+    "n_abstain": 2,
+    "n_clusters": 20
+  },
+  "hcc": {
+    "weighted": 80.4,
+    "macro": 68.0,
+    "n_abstain": 3,
+    "n_clusters": 25
+  }
+}

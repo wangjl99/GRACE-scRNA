@@ -1,0 +1,7 @@
+Dataset,Method,Weighted,Macro,vs SingleR
+"LUAD (n=9,708)",SingleR,91.1%,90.0%,—
+"LUAD (n=9,708)",GPT-5.4 naive,85.7%,80.0%,—
+"LUAD (n=9,708)",GRACE v2 ★,100.0%,100.0%,+8.9pp vs SingleR
+"HCC  (n=8,868)",SingleR,80.4%,68.0%,—
+"HCC  (n=8,868)",GPT-5.4 naive,43.9%,40.0%,—
+"HCC  (n=8,868)",GRACE v2 ★,93.3%,92.0%,+12.9pp vs SingleR (zero-shot)
